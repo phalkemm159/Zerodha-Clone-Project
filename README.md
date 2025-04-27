@@ -21,6 +21,19 @@ This project recreates the landing page and basic UI of Zerodha, focusing on fro
 
 ---
 
+✨ Features
+⚡ Fast and lightweight
+
+📱 Fully responsive (Mobile, Tablet, Desktop)
+
+🎨 Smooth modern UI inspired by Zerodha's official website
+
+💻 Easy to customize and extend
+
+
+🧑‍💻 Author
+Made with ❤️ by phalkemm159
+
 ## 🚀 How to Install and Run Locally
 
 Follow these steps to run the project on your local machine:
@@ -29,12 +42,6 @@ Follow these steps to run the project on your local machine:
 ```bash
 git clone https://github.com/phalkemm159/Zerodha-Clone-Project.git"
 
-- ✨ Features
--⚡ Fast and lightweight
 
-- 📱 Fully responsive (Mobile, Tablet, Desktop)
 
-- 🎨 Smooth modern UI inspired by Zerodha's official website
-
-- 💻 Easy to customize and extend
 
