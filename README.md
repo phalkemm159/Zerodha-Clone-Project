@@ -7,7 +7,7 @@ This project recreates the landing page and basic UI of Zerodha, focusing on fro
 
 ## 🌟 Hosted Link
 🔗 [View Live Project Here](https://phalkemm159.github.io/Zerodha-Clone-Project/)  
-*(Update the link if you host it somewhere else, like Vercel or Netlify)*
+
 
 ---
 
